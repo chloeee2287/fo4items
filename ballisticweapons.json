@@ -2,7 +2,7 @@
   {
     "Name": "10mm Pistol",
     "Round": "10mm",
-    "Damage": 18,
+    "Damage": "18",
     "Fire Rate": 46,
     "Range": 83,
     "Accuracy": 60,
@@ -11,7 +11,7 @@
   {
     "Name": ".44 Pistol",
     "Round": ".44",
-    "Damage": 48,
+    "Damage": "48",
     "Fire Rate": 6,
     "Range": 119,
     "Accuracy": 66,
@@ -20,7 +20,7 @@
   {
     "Name": "Hunting Rifle",
     "Round": ".308",
-    "Damage": 37,
+    "Damage": "37",
     "Fire Rate": 3,
     "Range": 131,
     "Accuracy": 71,
@@ -29,7 +29,7 @@
   {
     "Name": "Combat Rifle",
     "Round": ".45",
-    "Damage": 33,
+    "Damage": "33",
     "Fire Rate": 33,
     "Range": 119,
     "Accuracy": 70,
@@ -38,7 +38,7 @@
   {
     "Name": "Assault Rifle",
     "Round": "5.56mm",
-    "Damage": 30,
+    "Damage": "30",
     "Fire Rate": 40,
     "Range": 119,
     "Accuracy": 72,
@@ -47,7 +47,7 @@
   {
     "Name": "Gauss Rifle",
     "Round": "2mm EC",
-    "Damage": 110,
+    "Damage": "110",
     "Fire Rate": 66,
     "Range": 191,
     "Accuracy": 69,
@@ -56,7 +56,7 @@
   {
     "Name": "Submachine Gun",
     "Round": ".45",
-    "Damage": 10,
+    "Damage": "10",
     "Fire Rate": 127,
     "Range": 107,
     "Accuracy": 63,
@@ -65,7 +65,7 @@
   {
     "Name": "Double-Barrel Shotgun",
     "Round": "Shotgun Shell",
-    "Damage": 45,
+    "Damage": "45",
     "Fire Rate": 36,
     "Range": 47,
     "Accuracy": 16,
@@ -74,7 +74,7 @@
   {
     "Name": "Combat Shotgun",
     "Round": "Shotgun Shell",
-    "Damage": 50,
+    "Damage": "50",
     "Fire Rate": 20,
     "Range": 47,
     "Accuracy": 23,
@@ -83,7 +83,7 @@
   {
     "Name": "Pipe Gun",
     "Round": ".38",
-    "Damage": 13,
+    "Damage": "13",
     "Fire Rate": 55,
     "Range": 83,
     "Accuracy": 57,
@@ -92,7 +92,7 @@
   {
     "Name": "Pipe Revolver",
     "Round": ".45",
-    "Damage": 24,
+    "Damage": "24",
     "Fire Rate": 6,
     "Range": 83,
     "Accuracy": 61,
@@ -101,7 +101,7 @@
   {
     "Name": "Pipe Bolt-Action Weapon",
     "Round": ".308",
-    "Damage": 34,
+    "Damage": "34",
     "Fire Rate": 2,
     "Range": 95,
     "Accuracy": 63,
@@ -110,7 +110,7 @@
   {
     "Name": "Fat Man",
     "Round": "Mini Nuke",
-    "Damage": 468,
+    "Damage": "468",
     "Fire Rate": 1,
     "Range": 117,
     "Accuracy": 63,
@@ -119,7 +119,7 @@
   {
     "Name": "Missile Launcher",
     "Round": "Missile",
-    "Damage": 150,
+    "Damage": "150",
     "Fire Rate": 2,
     "Range": 203,
     "Accuracy": 65,
@@ -128,7 +128,7 @@
   {
     "Name": "Minigun",
     "Round": "5mm",
-    "Damage": 8,
+    "Damage": "8",
     "Fire Rate": 272,
     "Range": 131,
     "Accuracy": 35,
@@ -137,7 +137,7 @@
   {
     "Name": "Broadsider",
     "Round": "Cannonball",
-    "Damage": 108,
+    "Damage": "108",
     "Fire Rate": 2,
     "Range": 203,
     "Accuracy": 63,
@@ -146,7 +146,7 @@
   {
     "Name": "Flamer",
     "Round": "Flamer Fuel",
-    "Damage": 12,
+    "Damage": "12",
     "Fire Rate": 90,
     "Range": 47,
     "Accuracy": 53,
@@ -155,7 +155,7 @@
   {
     "Name": "Junk Jet",
     "Round": "Junk Items",
-    "Damage": 40,
+    "Damage": "40",
     "Fire Rate": 20,
     "Range": 119,
     "Accuracy": 75,
