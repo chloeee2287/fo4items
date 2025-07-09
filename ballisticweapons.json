@@ -3,7 +3,7 @@
     "Name": "10mm Pistol",
     "Round": "10mm",
     "Damage": "18",
-    "Fire Rate": 46,
+    "FireRate": 46,
     "Range": 83,
     "Accuracy": 60,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fallout4_10mm_pistol.webp"
@@ -12,7 +12,7 @@
     "Name": ".44 Pistol",
     "Round": ".44",
     "Damage": "48",
-    "Fire Rate": 6,
+    "FireRate": 6,
     "Range": 119,
     "Accuracy": 66,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fo4_44_Pistol.webp"
@@ -21,7 +21,7 @@
     "Name": "Hunting Rifle",
     "Round": ".308",
     "Damage": "37",
-    "Fire Rate": 3,
+    "FireRate": 3,
     "Range": 131,
     "Accuracy": 71,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Hunting_rifle_fo4.webp"
@@ -30,7 +30,7 @@
     "Name": "Combat Rifle",
     "Round": ".45",
     "Damage": "33",
-    "Fire Rate": 33,
+    "FireRate": 33,
     "Range": 119,
     "Accuracy": 70,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fallout4_Combat_rifle.webp"
@@ -39,7 +39,7 @@
     "Name": "Assault Rifle",
     "Round": "5.56mm",
     "Damage": "30",
-    "Fire Rate": 40,
+    "FireRate": 40,
     "Range": 119,
     "Accuracy": 72,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/AssaultrifleFO4.webp"
@@ -48,7 +48,7 @@
     "Name": "Gauss Rifle",
     "Round": "2mm EC",
     "Damage": "110",
-    "Fire Rate": 66,
+    "FireRate": 66,
     "Range": 191,
     "Accuracy": 69,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Gauss_rifle.webp"
@@ -57,7 +57,7 @@
     "Name": "Submachine Gun",
     "Round": ".45",
     "Damage": "10",
-    "Fire Rate": 127,
+    "FireRate": 127,
     "Range": 107,
     "Accuracy": 63,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/FO76_Submachine_gun.webp"
@@ -66,7 +66,7 @@
     "Name": "Double-Barrel Shotgun",
     "Round": "Shotgun Shell",
     "Damage": "45",
-    "Fire Rate": 36,
+    "FireRate": 36,
     "Range": 47,
     "Accuracy": 16,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Double-barrel_shotgun.webp"
@@ -75,7 +75,7 @@
     "Name": "Combat Shotgun",
     "Round": "Shotgun Shell",
     "Damage": "50",
-    "Fire Rate": 20,
+    "FireRate": 20,
     "Range": 47,
     "Accuracy": 23,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fo4_combat_shotgun.webp"
@@ -84,7 +84,7 @@
     "Name": "Pipe Gun",
     "Round": ".38",
     "Damage": "13",
-    "Fire Rate": 55,
+    "FireRate": 55,
     "Range": 83,
     "Accuracy": 57,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fallout4_pipe_pistol.webp"
@@ -93,7 +93,7 @@
     "Name": "Pipe Revolver",
     "Round": ".45",
     "Damage": "24",
-    "Fire Rate": 6,
+    "FireRate": 6,
     "Range": 83,
     "Accuracy": 61,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Pipe_revolver.webp"
@@ -102,7 +102,7 @@
     "Name": "Pipe Bolt-Action Weapon",
     "Round": ".308",
     "Damage": "34",
-    "Fire Rate": 2,
+    "FireRate": 2,
     "Range": 95,
     "Accuracy": 63,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fo4_pipe_bolt-action.webp"
@@ -111,7 +111,7 @@
     "Name": "Fat Man",
     "Round": "Mini Nuke",
     "Damage": "468",
-    "Fire Rate": 1,
+    "FireRate": 1,
     "Range": 117,
     "Accuracy": 63,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fallout4_Fat_man.webp"
@@ -120,7 +120,7 @@
     "Name": "Missile Launcher",
     "Round": "Missile",
     "Damage": "150",
-    "Fire Rate": 2,
+    "FireRate": 2,
     "Range": 203,
     "Accuracy": 65,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Missile_launcher.webp"
@@ -129,7 +129,7 @@
     "Name": "Minigun",
     "Round": "5mm",
     "Damage": "8",
-    "Fire Rate": 272,
+    "FireRate": 272,
     "Range": 131,
     "Accuracy": 35,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fallout4_Minigun.webp"
@@ -138,7 +138,7 @@
     "Name": "Broadsider",
     "Round": "Cannonball",
     "Damage": "108",
-    "Fire Rate": 2,
+    "FireRate": 2,
     "Range": 203,
     "Accuracy": 63,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Broadsider.webp"
@@ -147,7 +147,7 @@
     "Name": "Flamer",
     "Round": "Flamer Fuel",
     "Damage": "12",
-    "Fire Rate": 90,
+    "FireRate": 90,
     "Range": 47,
     "Accuracy": 53,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Flamer.webp"
@@ -156,7 +156,7 @@
     "Name": "Junk Jet",
     "Round": "Junk Items",
     "Damage": "40",
-    "Fire Rate": 20,
+    "FireRate": 20,
     "Range": 119,
     "Accuracy": 75,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Fallout4_junk_jet.webp"
@@ -165,7 +165,7 @@
     "Name": "Syringer",
     "Round": "Syringes",
     "Damage": "Variable",
-    "Fire Rate": 2,
+    "FireRate": 2,
     "Range": 119,
     "Accuracy": 60,
     "Image": "https://raw.githubusercontent.com/chloeee2287/fo4items/refs/heads/ballisticweapons/Syringer.webp"
